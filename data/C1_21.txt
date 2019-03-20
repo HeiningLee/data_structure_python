@@ -1,0 +1,4 @@
+Python is my language.
+There are many like it, but this one is mine.
+Without python I'm useless.
+Without me, python is useless.
